@@ -6,6 +6,8 @@ public class Pogram1 {
 
         System.out.println("Enter the value");
         Scanner input=new Scanner(System.in);
-
+        int  n= input.nextInt();
+        double s=0;
+        int i=1;
     }
 }
