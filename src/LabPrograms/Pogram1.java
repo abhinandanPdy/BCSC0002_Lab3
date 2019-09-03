@@ -9,5 +9,9 @@ public class Pogram1 {
         int  n= input.nextInt();
         double s=0;
         int i=1;
+        while (i<=n){
+            s=s+(1/i);
+            i=i+1;
+        }
     }
 }
